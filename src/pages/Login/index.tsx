@@ -30,9 +30,9 @@ export default function Login() {
         {...props}
       >
         {"Copyright © "}
-        <Link href="https://swiftsoft.com.br/" target="_blank" rel="noopener noreferrer" variant="body2">
+        <Link href="https://react.dev/" target="_blank" rel="noopener noreferrer" variant="body2">
 
-          Swift Soft
+          React
         </Link>{" "}
         {new Date().getFullYear()}
         {"."}
