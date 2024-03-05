@@ -10,8 +10,7 @@ Para rodar o projeto localmente, siga estes passos:
 
 ```bash
 
-git clone https://github.com/swiftsoft-cto/react-base.git
-
+git clone ...
 ```
 
 2. Instale as dependências:
