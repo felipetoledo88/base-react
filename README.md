@@ -40,7 +40,6 @@ A estrutura de diretórios do projeto é a seguinte:
 ## Tecnologias Utilizadas
 
 - React 18
-- Redux e Redux Toolkit
 - React Router
 - Axios
 - TypeScript
