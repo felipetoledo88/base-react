@@ -15,10 +15,10 @@ import {
 import { ThemeProvider } from "@mui/material/styles";
 import Logo from "../../assets/images/logo.png";
 import CustomAlert from "../../components/CustomAlert";
-import ForgotPasswordDialog from './components/ForgotPasswordDialog';
-import LoginForm from './components/LoginForm';
 import monochrome from '../../Themes/Monochrome';
 import { useAuth } from '../../contexts/AuthContext';
+import ForgotPasswordDialog from './ForgotPasswordDialog';
+import LoginForm from './LoginForm';
 
 export default function Login() {
   function Copyright(props: any) {
